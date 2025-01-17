@@ -1,0 +1,1 @@
+ALTER TABLE `partners` DROP INDEX `is_verified_idx`;

@@ -1,0 +1,1 @@
+ALTER TABLE `contacts` ADD `partner_id` varchar(191) NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE `partners` MODIFY COLUMN `org_type` varchar(256) NOT NULL DEFAULT 'NPO';

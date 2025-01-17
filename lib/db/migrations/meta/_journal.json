@@ -1,0 +1,83 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706383611763,
+      "tag": "0000_fair_riptide",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706384603965,
+      "tag": "0001_graceful_shriek",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1706387204707,
+      "tag": "0002_known_veda",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1706979353374,
+      "tag": "0003_graceful_goblin_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1706979957397,
+      "tag": "0004_complex_skullbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1707099083434,
+      "tag": "0005_conscious_liz_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1707099111876,
+      "tag": "0006_curvy_clea",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1707102369845,
+      "tag": "0007_chemical_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1707152116245,
+      "tag": "0008_freezing_luminals",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1707188402578,
+      "tag": "0009_tense_lilith",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1707188648579,
+      "tag": "0010_puzzling_hedge_knight",
+      "breakpoints": true
+    }
+  ]
+}
